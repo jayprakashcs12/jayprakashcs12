@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Prakash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakashcs12&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashcs12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayprakashcs12" alt="jayprakashcs12" /></a> </p>
@@ -13,6 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@jay-singh-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jay-singh-the-bashful" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jay-prakash-singh-028957128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-prakash-singh-028957128/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18405681/jay-prakash-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18405681/jay-prakash-singh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jayprakashcs12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jayprakashcs12" height="30" width="40" /></a>
+<a href="https://fb.com/jayprakash199221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayprakash199221/" height="30" width="40" /></a>
+<a href="https://instagram.com/jayprakashsingh10031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayprakashsingh10031" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
