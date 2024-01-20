@@ -1,6 +1,6 @@
 # <h1 align="center" style="font-size: 3em;"> Mr. Jay Prakash Singh </h1>
 <h1 align="center" style="font-size: 2em;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=60&duration=4000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&duration=4000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
 </h1>
 
 # <h2>🌐 Socials </h2>
