@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
 </h1>
 
-# <h2> 💫 About Me: </h2>
+# <h2> 💫 About Me </h2>
 🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack
 
 # <h2>🌐 Socials </h2>
