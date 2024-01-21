@@ -1,7 +1,7 @@
 # 
 <div align="center">
     <h1 align="center"> Mr. Jay Prakash Singh </h1>
-    <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" /></h2>
+    <h2>img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" /></h2>
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Coding" />
     <h2> 💫 About Me </h2>
     <p> 🔭 I'm currently working on <b>HTML, CSS, JavaScript & ReactJS</b> <br/> 🌱 I’m currently learning <b>MERN Stack</b> <br/> 📫 How to reach me <b><a href="mailto: jayprakash199221@gmail.com"> jayprakash199221@gmail.com </a></b></p> 
