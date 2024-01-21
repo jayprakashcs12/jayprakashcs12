@@ -1,7 +1,7 @@
 # <h1 align="center"> Mr. Jay Prakash Singh </h1>
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" /></h1>
 <div align="center">
-    <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+    <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Coding" />
     <h2 align="center"> 💫 About Me </h2>
     <p> 🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack  </p><br />
 </div>
