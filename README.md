@@ -19,9 +19,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 # <h2>📊 GitHub Stats </h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # <h2> 🏆 GitHub Trophies </h2>
