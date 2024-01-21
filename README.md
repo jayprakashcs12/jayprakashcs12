@@ -27,6 +27,9 @@
 # <h2> 🏆 GitHub Trophies </h2>
 ![](https://github-profile-trophy.vercel.app/?username=jayprakashcs12&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+### <h2> 🔝 Top Contributed Repo </h2>
+![](https://github-contributor-stats.vercel.app/api?username=jayprakashcs12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### <h2> ✍️ Random Dev Quote </h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
