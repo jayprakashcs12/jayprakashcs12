@@ -19,9 +19,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 # <h2>📊 GitHub Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # <h2> 🏆 GitHub Trophies </h2>
 ![](https://github-profile-trophy.vercel.app/?username=jayprakashcs12&theme=discord&no-frame=false&no-bg=true&margin-w=4)
