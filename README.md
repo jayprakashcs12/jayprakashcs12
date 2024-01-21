@@ -1,5 +1,4 @@
-# 
-<h1 align="center"> Mr. Jay Prakash Singh </h1>
+# <h1 align="center"> Mr. Jay Prakash Singh </h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
 </h1>
