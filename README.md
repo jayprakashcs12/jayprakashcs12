@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Coding" />
     <h2 align="center"> 💫 About Me </h2>
-    <p> 🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack  </p><br />
+    <p> 🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS <br/> 🌱 I’m currently learning MERN Stack <br/> 📫 How to reach me **jayprakash199221@gmail.com**  </p><br />
 </div>
 
 # <h2>🌐 Socials </h2>
