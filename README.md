@@ -1,10 +1,10 @@
 # <h1 align="center"> Mr. Jay Prakash Singh </h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
-</h1>
-
-# <h2> 💫 About Me </h2>
-🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" /></h1>
+<div align="center">
+    <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+    <h2 align="center"> 💫 About Me </h2>
+    <p> 🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack  </p><br />
+</div>
 
 # <h2>🌐 Socials </h2>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jayprakash199221) 
