@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(ReactJS+Developer);(UI+Developer)" />
 </h1>
 
+# <h2> 💫 About Me: </h2>
+🔭 I'm currently working on HTML, CSS, JavaScript & ReactJS<br>🌱 I’m currently learning MERN Stack
+
 # <h2>🌐 Socials </h2>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jayprakash199221) 
 <a href="mailto:jayprakash199221@gmail.com" ><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="height: 20px;max-width: 100%;border-radius: 5px;" /></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayprakashsingh10031) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-prakash-singh-028957128/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18405681/jay-prakash-singh) 
