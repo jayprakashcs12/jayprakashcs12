@@ -19,21 +19,18 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 # <h2>📊 GitHub Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # <h2> 🏆 GitHub Trophies </h2>
 ![](https://github-profile-trophy.vercel.app/?username=jayprakashcs12&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### <h2> ✍️ Random Dev Quote </h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayprakashcs12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### <h2> 😂 Random Dev Meme </h2>
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jay_prakash_1992) 
