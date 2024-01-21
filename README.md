@@ -29,11 +29,11 @@
 ### <h2> ✍️ Random Dev Quote </h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jayprakashcs12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### <h2> 😂 Random Dev Meme </h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jayprakashcs12&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jay_prakash_1992) 
