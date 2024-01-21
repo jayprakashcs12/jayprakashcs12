@@ -19,8 +19,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
 # <h2>📊 GitHub Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayprakashcs12&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprakashcs12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # <h2> 🏆 GitHub Trophies </h2>
@@ -30,7 +30,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### <h2> 😂 Random Dev Meme </h2>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 450px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jayprakashcs12&icon=6&color=0)](https://visitcount.itsvg.in)
