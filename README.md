@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Coding" />
     <h2> 💫 About Me </h2>
-    <p> 🔭 I'm currently working on <b>HTML, CSS, JavaScript & ReactJS</b> <br/> 🌱 I’m currently learning <b>MERN Stack</b> <br/> 📫 How to reach me <b><a href="mailto: jayprakash199221@gmail.com"> Mail Us </a></b></p>
+    <p> 🔭 I'm currently working on <b>HTML, CSS, JavaScript & ReactJS</b> <br/> 🌱 I’m currently learning <b>MERN Stack</b> <br/> 📫 How to reach me <b><a href="mailto: jayprakash199221@gmail.com"> Mail Us </a></b></p>   
 </div>
 
 # <h2>🌐 Socials </h2>
@@ -40,5 +40,5 @@
 ## <h2> 💰 You can help me by Donating </h2>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jay_prakash_1992) 
 
-  
+<p> <img src="https://komarev.com/ghpvc/?username=jayprakashcs12&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashcs12" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
