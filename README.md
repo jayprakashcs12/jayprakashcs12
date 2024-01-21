@@ -39,7 +39,7 @@
 ### <h2> ✍️ Random Dev Quote </h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## <h2> 💰 You can help me by Donating </h2
+## <h2> 💰 You can help me by Donating </h2>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jay_prakash_1992) 
 
   
